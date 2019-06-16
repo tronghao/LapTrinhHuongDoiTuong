@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\laptrinhhuongdoituong\lam o nha\ktl2_de2\ktl2_de2\buukien.h(23): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\laptrinhhuongdoituong\lam o nha\ktl2_de2\ktl2_de2\buukien.h(24): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  KTL2_De2.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\LapTrinhHuongDoiTuong\Lam o nha\KTL2_De2\Debug\KTL2_De2.exe
